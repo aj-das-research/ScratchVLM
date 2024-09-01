@@ -526,6 +526,7 @@ class PaliGemmaForConditionalGeneration(nn.Module):
         kv_cache: Optional[KVCache] = None,
     ) -> Tuple:
 
+
         # Make sure the input is right-padded
         assert torch.all(attention_mask == 1), "The input cannot be padded"
 
