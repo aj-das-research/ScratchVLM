@@ -61,9 +61,6 @@ Customize the parameters and data paths to start training.
 - `processing_paligemma.py` – Data processing script tailored for the GEMMA model.
 - `utils.py` – Utility functions to support various tasks.
 
-## 🤝 Contributing
-
-We welcome contributions! Please check out the [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to ScratchVLM.
 
 ## 📝 License
 
@@ -72,3 +69,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions, feel free to reach out to the repository owner: [aj-das-research](https://github.com/aj-das-research).
+
